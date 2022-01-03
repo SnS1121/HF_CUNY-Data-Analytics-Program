@@ -1,0 +1,7 @@
+num = int(input ('Hello! Pick a number.'))
+if (num % 2 == 0) :
+   print('That is an EVEN number!')
+elif (num % 4 == 0) :
+   print('That is a Magic number!')
+else :
+   print ('That is an ODD number!')
